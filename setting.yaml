@@ -1,0 +1,9 @@
+# Full path for Google Drive location where you want all data to be saved
+FOLDER: "drive_root/project"
+
+#URL of Google Sheet that has the URLs you want to harvest
+#should look like:
+#label,url
+
+SPREADSHEET: https://google.com/sheets/
+
